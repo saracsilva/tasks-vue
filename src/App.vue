@@ -23,19 +23,19 @@ export default {
         id: 1,
         text: "Doctors appointment",
         day: "February 17  at 4:30pm",
-        reminder: "true",
+        reminder: true,
       },
       {
         id: 2,
         text: "Meeting at School",
         day: "February 22  at 2:30pm",
-        reminder: "true",
+        reminder: true,
       },
       {
         id: 3,
         text: "Food Shopping",
         day: "February 23  at 2:00pm",
-        reminder: "false",
+        reminder: false,
       },
     ];
   },
